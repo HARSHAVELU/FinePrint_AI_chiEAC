@@ -1,0 +1,58 @@
+[
+  {
+    "doc_id": "insurance-04",
+    "section_id": "1",
+    "heading": "Appeal",
+    "text": "You must submit an appeal by December 1, 2026.",
+    "page": 1,
+    "source_file": "synthetic-example"
+  },
+  {
+    "doc_id": "insurance-04",
+    "section_id": "2",
+    "heading": "Cost",
+    "text": "The annual deductible is $500.",
+    "page": 1,
+    "source_file": "synthetic-example"
+  },
+  {
+    "doc_id": "insurance-04",
+    "section_id": "3",
+    "heading": "Copay",
+    "text": "The office visit copay is $25.",
+    "page": 1,
+    "source_file": "synthetic-example"
+  },
+  {
+    "doc_id": "insurance-04",
+    "section_id": "4",
+    "heading": "Network",
+    "text": "You must use network providers for the stated copay.",
+    "page": 1,
+    "source_file": "synthetic-example"
+  },
+  {
+    "doc_id": "insurance-04",
+    "section_id": "5",
+    "heading": "Authorization",
+    "text": "You must obtain prior authorization before the procedure.",
+    "page": 2,
+    "source_file": "synthetic-example"
+  },
+  {
+    "doc_id": "insurance-04",
+    "section_id": "6",
+    "heading": "Terms",
+    "text": "Deductible means the amount you pay before the plan pays for covered care.",
+    "page": 2,
+    "source_file": "synthetic-example"
+  },
+  {
+    "doc_id": "insurance-04",
+    "section_id": "7",
+    "heading": "Contact",
+    "text": "You must call the plan office for help with a claim.",
+    "page": 2,
+    "source_file": "synthetic-example"
+  }
+]

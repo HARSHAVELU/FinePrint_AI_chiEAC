@@ -1,0 +1,205 @@
+doc_id,item_type,value,section_id,quote,ambiguous,notes
+housing-01,deadline,2026-11-05,1,"Rent of $1,210 is due on November 5, 2026.",False,Single-pass authored synthetic fixture; independent human reconciliation pending.
+housing-01,fee,"$1,210",1,"Rent of $1,210 is due on November 5, 2026.",False,Single-pass authored synthetic fixture; independent human reconciliation pending.
+housing-01,fee,$800,2,Tenant must pay a security deposit of $800 before move-in.,False,Single-pass authored synthetic fixture; independent human reconciliation pending.
+housing-01,fee,$45,5,A late fee of $45 applies after the grace period.,False,Single-pass authored synthetic fixture; independent human reconciliation pending.
+housing-01,deadline,2026-11-02,7,"Tenant must provide proof of income by November 2, 2026.",False,Single-pass authored synthetic fixture; independent human reconciliation pending.
+housing-01,requirement,Tenant must pay a security deposit of $800 before move-in.,2,Tenant must pay a security deposit of $800 before move-in.,False,Single-pass authored synthetic fixture; independent human reconciliation pending.
+housing-01,obligation,Tenant must give 30 days written notice to end the lease.,3,Tenant must give 30 days written notice to end the lease.,False,Single-pass authored synthetic fixture; independent human reconciliation pending.
+housing-01,term,Security deposit means money held to cover unpaid rent or damage.,6,Security deposit means money held to cover unpaid rent or damage.,False,Single-pass authored synthetic fixture; independent human reconciliation pending.
+housing-02,deadline,2026-11-05,1,"Rent of $1,220 is due on November 5, 2026.",False,Single-pass authored synthetic fixture; independent human reconciliation pending.
+housing-02,fee,"$1,220",1,"Rent of $1,220 is due on November 5, 2026.",False,Single-pass authored synthetic fixture; independent human reconciliation pending.
+housing-02,fee,$800,2,Tenant must pay a security deposit of $800 before move-in.,False,Single-pass authored synthetic fixture; independent human reconciliation pending.
+housing-02,fee,$45,5,A late fee of $45 applies after the grace period.,False,Single-pass authored synthetic fixture; independent human reconciliation pending.
+housing-02,deadline,2026-11-02,7,"Tenant must provide proof of income by November 2, 2026.",False,Single-pass authored synthetic fixture; independent human reconciliation pending.
+housing-02,requirement,Tenant must pay a security deposit of $800 before move-in.,2,Tenant must pay a security deposit of $800 before move-in.,False,Single-pass authored synthetic fixture; independent human reconciliation pending.
+housing-02,obligation,Tenant must give 30 days written notice to end the lease.,3,Tenant must give 30 days written notice to end the lease.,False,Single-pass authored synthetic fixture; independent human reconciliation pending.
+housing-02,term,Security deposit means money held to cover unpaid rent or damage.,6,Security deposit means money held to cover unpaid rent or damage.,False,Single-pass authored synthetic fixture; independent human reconciliation pending.
+housing-03,deadline,2026-11-05,1,"Rent of $1,230 is due on November 5, 2026.",False,Single-pass authored synthetic fixture; independent human reconciliation pending.
+housing-03,fee,"$1,230",1,"Rent of $1,230 is due on November 5, 2026.",False,Single-pass authored synthetic fixture; independent human reconciliation pending.
+housing-03,fee,$800,2,Tenant must pay a security deposit of $800 before move-in.,False,Single-pass authored synthetic fixture; independent human reconciliation pending.
+housing-03,fee,$45,5,A late fee of $45 applies after the grace period.,False,Single-pass authored synthetic fixture; independent human reconciliation pending.
+housing-03,deadline,2026-11-02,7,"Tenant must provide proof of income by November 2, 2026.",False,Single-pass authored synthetic fixture; independent human reconciliation pending.
+housing-03,requirement,Tenant must pay a security deposit of $800 before move-in.,2,Tenant must pay a security deposit of $800 before move-in.,False,Single-pass authored synthetic fixture; independent human reconciliation pending.
+housing-03,obligation,Tenant must give 30 days written notice to end the lease.,3,Tenant must give 30 days written notice to end the lease.,False,Single-pass authored synthetic fixture; independent human reconciliation pending.
+housing-03,term,Security deposit means money held to cover unpaid rent or damage.,6,Security deposit means money held to cover unpaid rent or damage.,False,Single-pass authored synthetic fixture; independent human reconciliation pending.
+housing-04,deadline,2026-11-05,1,"Rent of $1,240 is due on November 5, 2026.",False,Single-pass authored synthetic fixture; independent human reconciliation pending.
+housing-04,fee,"$1,240",1,"Rent of $1,240 is due on November 5, 2026.",False,Single-pass authored synthetic fixture; independent human reconciliation pending.
+housing-04,fee,$800,2,Tenant must pay a security deposit of $800 before move-in.,False,Single-pass authored synthetic fixture; independent human reconciliation pending.
+housing-04,fee,$45,5,A late fee of $45 applies after the grace period.,False,Single-pass authored synthetic fixture; independent human reconciliation pending.
+housing-04,deadline,2026-11-02,7,"Tenant must provide proof of income by November 2, 2026.",False,Single-pass authored synthetic fixture; independent human reconciliation pending.
+housing-04,requirement,Tenant must pay a security deposit of $800 before move-in.,2,Tenant must pay a security deposit of $800 before move-in.,False,Single-pass authored synthetic fixture; independent human reconciliation pending.
+housing-04,obligation,Tenant must give 30 days written notice to end the lease.,3,Tenant must give 30 days written notice to end the lease.,False,Single-pass authored synthetic fixture; independent human reconciliation pending.
+housing-04,term,Security deposit means money held to cover unpaid rent or damage.,6,Security deposit means money held to cover unpaid rent or damage.,False,Single-pass authored synthetic fixture; independent human reconciliation pending.
+housing-05,deadline,2026-11-05,1,"Rent of $1,250 is due on November 5, 2026.",False,Single-pass authored synthetic fixture; independent human reconciliation pending.
+housing-05,fee,"$1,250",1,"Rent of $1,250 is due on November 5, 2026.",False,Single-pass authored synthetic fixture; independent human reconciliation pending.
+housing-05,fee,$800,2,Tenant must pay a security deposit of $800 before move-in.,False,Single-pass authored synthetic fixture; independent human reconciliation pending.
+housing-05,fee,$45,5,A late fee of $45 applies after the grace period.,False,Single-pass authored synthetic fixture; independent human reconciliation pending.
+housing-05,deadline,2026-11-02,7,"Tenant must provide proof of income by November 2, 2026.",False,Single-pass authored synthetic fixture; independent human reconciliation pending.
+housing-05,requirement,Tenant must pay a security deposit of $800 before move-in.,2,Tenant must pay a security deposit of $800 before move-in.,False,Single-pass authored synthetic fixture; independent human reconciliation pending.
+housing-05,obligation,Tenant must give 30 days written notice to end the lease.,3,Tenant must give 30 days written notice to end the lease.,False,Single-pass authored synthetic fixture; independent human reconciliation pending.
+housing-05,term,Security deposit means money held to cover unpaid rent or damage.,6,Security deposit means money held to cover unpaid rent or damage.,False,Single-pass authored synthetic fixture; independent human reconciliation pending.
+housing-06,deadline,2026-11-05,1,"Rent of $1,260 is due on November 5, 2026.",False,Single-pass authored synthetic fixture; independent human reconciliation pending.
+housing-06,fee,"$1,260",1,"Rent of $1,260 is due on November 5, 2026.",False,Single-pass authored synthetic fixture; independent human reconciliation pending.
+housing-06,fee,$800,2,Tenant must pay a security deposit of $800 before move-in.,False,Single-pass authored synthetic fixture; independent human reconciliation pending.
+housing-06,fee,$45,5,A late fee of $45 applies after the grace period.,False,Single-pass authored synthetic fixture; independent human reconciliation pending.
+housing-06,deadline,2026-11-02,7,"Tenant must provide proof of income by November 2, 2026.",False,Single-pass authored synthetic fixture; independent human reconciliation pending.
+housing-06,requirement,Tenant must pay a security deposit of $800 before move-in.,2,Tenant must pay a security deposit of $800 before move-in.,False,Single-pass authored synthetic fixture; independent human reconciliation pending.
+housing-06,obligation,Tenant must give 30 days written notice to end the lease.,3,Tenant must give 30 days written notice to end the lease.,False,Single-pass authored synthetic fixture; independent human reconciliation pending.
+housing-06,term,Security deposit means money held to cover unpaid rent or damage.,6,Security deposit means money held to cover unpaid rent or damage.,False,Single-pass authored synthetic fixture; independent human reconciliation pending.
+employment-01,deadline,2026-11-16,1,"Employment begins on November 16, 2026.",False,Single-pass authored synthetic fixture; independent human reconciliation pending.
+employment-01,fee,$25,2,The pay rate is $25 per hour.,False,Single-pass authored synthetic fixture; independent human reconciliation pending.
+employment-01,deadline,2026-11-06,3,"You must sign and return the offer by November 6, 2026.",False,Single-pass authored synthetic fixture; independent human reconciliation pending.
+employment-01,deadline,2026-11-20,4,"You must submit benefits forms by November 20, 2026.",False,Single-pass authored synthetic fixture; independent human reconciliation pending.
+employment-01,requirement,"You must sign and return the offer by November 6, 2026.",3,"You must sign and return the offer by November 6, 2026.",False,Single-pass authored synthetic fixture; independent human reconciliation pending.
+employment-01,obligation,Employees must give two weeks notice before resigning.,5,Employees must give two weeks notice before resigning.,False,Single-pass authored synthetic fixture; independent human reconciliation pending.
+employment-01,term,Nonexempt means eligible for overtime pay under this offer.,6,Nonexempt means eligible for overtime pay under this offer.,False,Single-pass authored synthetic fixture; independent human reconciliation pending.
+employment-01,fee,$50 (waived / not charged),7,The training fee of $50 is waived and will not be charged.,False,Single-pass authored synthetic fixture; independent human reconciliation pending.
+employment-02,deadline,2026-11-16,1,"Employment begins on November 16, 2026.",False,Single-pass authored synthetic fixture; independent human reconciliation pending.
+employment-02,fee,$25,2,The pay rate is $25 per hour.,False,Single-pass authored synthetic fixture; independent human reconciliation pending.
+employment-02,deadline,2026-11-06,3,"You must sign and return the offer by November 6, 2026.",False,Single-pass authored synthetic fixture; independent human reconciliation pending.
+employment-02,deadline,2026-11-20,4,"You must submit benefits forms by November 20, 2026.",False,Single-pass authored synthetic fixture; independent human reconciliation pending.
+employment-02,requirement,"You must sign and return the offer by November 6, 2026.",3,"You must sign and return the offer by November 6, 2026.",False,Single-pass authored synthetic fixture; independent human reconciliation pending.
+employment-02,obligation,Employees must give two weeks notice before resigning.,5,Employees must give two weeks notice before resigning.,False,Single-pass authored synthetic fixture; independent human reconciliation pending.
+employment-02,term,Nonexempt means eligible for overtime pay under this offer.,6,Nonexempt means eligible for overtime pay under this offer.,False,Single-pass authored synthetic fixture; independent human reconciliation pending.
+employment-02,fee,$50 (waived / not charged),7,The training fee of $50 is waived and will not be charged.,False,Single-pass authored synthetic fixture; independent human reconciliation pending.
+employment-03,deadline,2026-11-16,1,"Employment begins on November 16, 2026.",False,Single-pass authored synthetic fixture; independent human reconciliation pending.
+employment-03,fee,$25,2,The pay rate is $25 per hour.,False,Single-pass authored synthetic fixture; independent human reconciliation pending.
+employment-03,deadline,2026-11-06,3,"You must sign and return the offer by November 6, 2026.",False,Single-pass authored synthetic fixture; independent human reconciliation pending.
+employment-03,deadline,2026-11-20,4,"You must submit benefits forms by November 20, 2026.",False,Single-pass authored synthetic fixture; independent human reconciliation pending.
+employment-03,requirement,"You must sign and return the offer by November 6, 2026.",3,"You must sign and return the offer by November 6, 2026.",False,Single-pass authored synthetic fixture; independent human reconciliation pending.
+employment-03,obligation,Employees must give two weeks notice before resigning.,5,Employees must give two weeks notice before resigning.,False,Single-pass authored synthetic fixture; independent human reconciliation pending.
+employment-03,term,Nonexempt means eligible for overtime pay under this offer.,6,Nonexempt means eligible for overtime pay under this offer.,False,Single-pass authored synthetic fixture; independent human reconciliation pending.
+employment-03,fee,$50 (waived / not charged),7,The training fee of $50 is waived and will not be charged.,False,Single-pass authored synthetic fixture; independent human reconciliation pending.
+employment-04,deadline,2026-11-16,1,"Employment begins on November 16, 2026.",False,Single-pass authored synthetic fixture; independent human reconciliation pending.
+employment-04,fee,$25,2,The pay rate is $25 per hour.,False,Single-pass authored synthetic fixture; independent human reconciliation pending.
+employment-04,deadline,2026-11-06,3,"You must sign and return the offer by November 6, 2026.",False,Single-pass authored synthetic fixture; independent human reconciliation pending.
+employment-04,deadline,2026-11-20,4,"You must submit benefits forms by November 20, 2026.",False,Single-pass authored synthetic fixture; independent human reconciliation pending.
+employment-04,requirement,"You must sign and return the offer by November 6, 2026.",3,"You must sign and return the offer by November 6, 2026.",False,Single-pass authored synthetic fixture; independent human reconciliation pending.
+employment-04,obligation,Employees must give two weeks notice before resigning.,5,Employees must give two weeks notice before resigning.,False,Single-pass authored synthetic fixture; independent human reconciliation pending.
+employment-04,term,Nonexempt means eligible for overtime pay under this offer.,6,Nonexempt means eligible for overtime pay under this offer.,False,Single-pass authored synthetic fixture; independent human reconciliation pending.
+employment-04,fee,$50 (waived / not charged),7,The training fee of $50 is waived and will not be charged.,False,Single-pass authored synthetic fixture; independent human reconciliation pending.
+employment-05,deadline,2026-11-16,1,"Employment begins on November 16, 2026.",False,Single-pass authored synthetic fixture; independent human reconciliation pending.
+employment-05,fee,$25,2,The pay rate is $25 per hour.,False,Single-pass authored synthetic fixture; independent human reconciliation pending.
+employment-05,deadline,2026-11-06,3,"You must sign and return the offer by November 6, 2026.",False,Single-pass authored synthetic fixture; independent human reconciliation pending.
+employment-05,deadline,2026-11-20,4,"You must submit benefits forms by November 20, 2026.",False,Single-pass authored synthetic fixture; independent human reconciliation pending.
+employment-05,requirement,"You must sign and return the offer by November 6, 2026.",3,"You must sign and return the offer by November 6, 2026.",False,Single-pass authored synthetic fixture; independent human reconciliation pending.
+employment-05,obligation,Employees must give two weeks notice before resigning.,5,Employees must give two weeks notice before resigning.,False,Single-pass authored synthetic fixture; independent human reconciliation pending.
+employment-05,term,Nonexempt means eligible for overtime pay under this offer.,6,Nonexempt means eligible for overtime pay under this offer.,False,Single-pass authored synthetic fixture; independent human reconciliation pending.
+employment-05,fee,$50 (waived / not charged),7,The training fee of $50 is waived and will not be charged.,False,Single-pass authored synthetic fixture; independent human reconciliation pending.
+employment-06,deadline,2026-11-16,1,"Employment begins on November 16, 2026.",False,Single-pass authored synthetic fixture; independent human reconciliation pending.
+employment-06,fee,$25,2,The pay rate is $25 per hour.,False,Single-pass authored synthetic fixture; independent human reconciliation pending.
+employment-06,deadline,2026-11-06,3,"You must sign and return the offer by November 6, 2026.",False,Single-pass authored synthetic fixture; independent human reconciliation pending.
+employment-06,deadline,2026-11-20,4,"You must submit benefits forms by November 20, 2026.",False,Single-pass authored synthetic fixture; independent human reconciliation pending.
+employment-06,requirement,"You must sign and return the offer by November 6, 2026.",3,"You must sign and return the offer by November 6, 2026.",False,Single-pass authored synthetic fixture; independent human reconciliation pending.
+employment-06,obligation,Employees must give two weeks notice before resigning.,5,Employees must give two weeks notice before resigning.,False,Single-pass authored synthetic fixture; independent human reconciliation pending.
+employment-06,term,Nonexempt means eligible for overtime pay under this offer.,6,Nonexempt means eligible for overtime pay under this offer.,False,Single-pass authored synthetic fixture; independent human reconciliation pending.
+employment-06,fee,$50 (waived / not charged),7,The training fee of $50 is waived and will not be charged.,False,Single-pass authored synthetic fixture; independent human reconciliation pending.
+school-01,deadline,2026-11-04,1,"You must return the school enrollment form by November 4, 2026.",False,Single-pass authored synthetic fixture; independent human reconciliation pending.
+school-01,deadline,2026-11-10,3,"The school meeting is on November 10, 2026 at 3 p.m. in Room 2.",False,Single-pass authored synthetic fixture; independent human reconciliation pending.
+school-01,fee,$20,4,The school activity fee is $20.,False,Single-pass authored synthetic fixture; independent human reconciliation pending.
+school-01,requirement,The student must provide proof of address and an immunization record.,2,The student must provide proof of address and an immunization record.,False,Single-pass authored synthetic fixture; independent human reconciliation pending.
+school-01,requirement,"You must return the school enrollment form by November 4, 2026.",1,"You must return the school enrollment form by November 4, 2026.",False,Single-pass authored synthetic fixture; independent human reconciliation pending.
+school-01,term,Enrollment means signing up for school.,6,Enrollment means signing up for school.,False,Single-pass authored synthetic fixture; independent human reconciliation pending.
+school-02,deadline,2026-11-04,1,"You must return the school enrollment form by November 4, 2026.",False,Single-pass authored synthetic fixture; independent human reconciliation pending.
+school-02,deadline,2026-11-10,3,"The school meeting is on November 10, 2026 at 3 p.m. in Room 2.",False,Single-pass authored synthetic fixture; independent human reconciliation pending.
+school-02,fee,$20,4,The school activity fee is $20.,False,Single-pass authored synthetic fixture; independent human reconciliation pending.
+school-02,requirement,The student must provide proof of address and an immunization record.,2,The student must provide proof of address and an immunization record.,False,Single-pass authored synthetic fixture; independent human reconciliation pending.
+school-02,requirement,"You must return the school enrollment form by November 4, 2026.",1,"You must return the school enrollment form by November 4, 2026.",False,Single-pass authored synthetic fixture; independent human reconciliation pending.
+school-02,term,Enrollment means signing up for school.,6,Enrollment means signing up for school.,False,Single-pass authored synthetic fixture; independent human reconciliation pending.
+school-03,deadline,2026-11-04,1,"You must return the school enrollment form by November 4, 2026.",False,Single-pass authored synthetic fixture; independent human reconciliation pending.
+school-03,deadline,2026-11-10,3,"The school meeting is on November 10, 2026 at 3 p.m. in Room 2.",False,Single-pass authored synthetic fixture; independent human reconciliation pending.
+school-03,fee,$20,4,The school activity fee is $20.,False,Single-pass authored synthetic fixture; independent human reconciliation pending.
+school-03,requirement,The student must provide proof of address and an immunization record.,2,The student must provide proof of address and an immunization record.,False,Single-pass authored synthetic fixture; independent human reconciliation pending.
+school-03,requirement,"You must return the school enrollment form by November 4, 2026.",1,"You must return the school enrollment form by November 4, 2026.",False,Single-pass authored synthetic fixture; independent human reconciliation pending.
+school-03,term,Enrollment means signing up for school.,6,Enrollment means signing up for school.,False,Single-pass authored synthetic fixture; independent human reconciliation pending.
+school-04,deadline,2026-11-04,1,"You must return the school enrollment form by November 4, 2026.",False,Single-pass authored synthetic fixture; independent human reconciliation pending.
+school-04,deadline,2026-11-10,3,"The school meeting is on November 10, 2026 at 3 p.m. in Room 2.",False,Single-pass authored synthetic fixture; independent human reconciliation pending.
+school-04,fee,$20,4,The school activity fee is $20.,False,Single-pass authored synthetic fixture; independent human reconciliation pending.
+school-04,requirement,The student must provide proof of address and an immunization record.,2,The student must provide proof of address and an immunization record.,False,Single-pass authored synthetic fixture; independent human reconciliation pending.
+school-04,requirement,"You must return the school enrollment form by November 4, 2026.",1,"You must return the school enrollment form by November 4, 2026.",False,Single-pass authored synthetic fixture; independent human reconciliation pending.
+school-04,term,Enrollment means signing up for school.,6,Enrollment means signing up for school.,False,Single-pass authored synthetic fixture; independent human reconciliation pending.
+school-05,deadline,2026-11-04,1,"You must return the school enrollment form by November 4, 2026.",False,Single-pass authored synthetic fixture; independent human reconciliation pending.
+school-05,deadline,2026-11-10,3,"The school meeting is on November 10, 2026 at 3 p.m. in Room 2.",False,Single-pass authored synthetic fixture; independent human reconciliation pending.
+school-05,fee,$20,4,The school activity fee is $20.,False,Single-pass authored synthetic fixture; independent human reconciliation pending.
+school-05,requirement,The student must provide proof of address and an immunization record.,2,The student must provide proof of address and an immunization record.,False,Single-pass authored synthetic fixture; independent human reconciliation pending.
+school-05,requirement,"You must return the school enrollment form by November 4, 2026.",1,"You must return the school enrollment form by November 4, 2026.",False,Single-pass authored synthetic fixture; independent human reconciliation pending.
+school-05,term,Enrollment means signing up for school.,6,Enrollment means signing up for school.,False,Single-pass authored synthetic fixture; independent human reconciliation pending.
+school-06,deadline,2026-11-04,1,"You must return the school enrollment form by November 4, 2026.",False,Single-pass authored synthetic fixture; independent human reconciliation pending.
+school-06,deadline,2026-11-10,3,"The school meeting is on November 10, 2026 at 3 p.m. in Room 2.",False,Single-pass authored synthetic fixture; independent human reconciliation pending.
+school-06,fee,$20,4,The school activity fee is $20.,False,Single-pass authored synthetic fixture; independent human reconciliation pending.
+school-06,requirement,The student must provide proof of address and an immunization record.,2,The student must provide proof of address and an immunization record.,False,Single-pass authored synthetic fixture; independent human reconciliation pending.
+school-06,requirement,"You must return the school enrollment form by November 4, 2026.",1,"You must return the school enrollment form by November 4, 2026.",False,Single-pass authored synthetic fixture; independent human reconciliation pending.
+school-06,term,Enrollment means signing up for school.,6,Enrollment means signing up for school.,False,Single-pass authored synthetic fixture; independent human reconciliation pending.
+insurance-01,deadline,2026-12-01,1,"You must submit an appeal by December 1, 2026.",False,Single-pass authored synthetic fixture; independent human reconciliation pending.
+insurance-01,fee,$500,2,The annual deductible is $500.,False,Single-pass authored synthetic fixture; independent human reconciliation pending.
+insurance-01,fee,$25,3,The office visit copay is $25.,False,Single-pass authored synthetic fixture; independent human reconciliation pending.
+insurance-01,requirement,"You must submit an appeal by December 1, 2026.",1,"You must submit an appeal by December 1, 2026.",False,Single-pass authored synthetic fixture; independent human reconciliation pending.
+insurance-01,requirement,You must obtain prior authorization before the procedure.,5,You must obtain prior authorization before the procedure.,False,Single-pass authored synthetic fixture; independent human reconciliation pending.
+insurance-01,term,Deductible means the amount you pay before the plan pays for covered care.,6,Deductible means the amount you pay before the plan pays for covered care.,False,Single-pass authored synthetic fixture; independent human reconciliation pending.
+insurance-02,deadline,2026-12-01,1,"You must submit an appeal by December 1, 2026.",False,Single-pass authored synthetic fixture; independent human reconciliation pending.
+insurance-02,fee,$500,2,The annual deductible is $500.,False,Single-pass authored synthetic fixture; independent human reconciliation pending.
+insurance-02,fee,$25,3,The office visit copay is $25.,False,Single-pass authored synthetic fixture; independent human reconciliation pending.
+insurance-02,requirement,"You must submit an appeal by December 1, 2026.",1,"You must submit an appeal by December 1, 2026.",False,Single-pass authored synthetic fixture; independent human reconciliation pending.
+insurance-02,requirement,You must obtain prior authorization before the procedure.,5,You must obtain prior authorization before the procedure.,False,Single-pass authored synthetic fixture; independent human reconciliation pending.
+insurance-02,term,Deductible means the amount you pay before the plan pays for covered care.,6,Deductible means the amount you pay before the plan pays for covered care.,False,Single-pass authored synthetic fixture; independent human reconciliation pending.
+insurance-03,deadline,2026-12-01,1,"You must submit an appeal by December 1, 2026.",False,Single-pass authored synthetic fixture; independent human reconciliation pending.
+insurance-03,fee,$500,2,The annual deductible is $500.,False,Single-pass authored synthetic fixture; independent human reconciliation pending.
+insurance-03,fee,$25,3,The office visit copay is $25.,False,Single-pass authored synthetic fixture; independent human reconciliation pending.
+insurance-03,requirement,"You must submit an appeal by December 1, 2026.",1,"You must submit an appeal by December 1, 2026.",False,Single-pass authored synthetic fixture; independent human reconciliation pending.
+insurance-03,requirement,You must obtain prior authorization before the procedure.,5,You must obtain prior authorization before the procedure.,False,Single-pass authored synthetic fixture; independent human reconciliation pending.
+insurance-03,term,Deductible means the amount you pay before the plan pays for covered care.,6,Deductible means the amount you pay before the plan pays for covered care.,False,Single-pass authored synthetic fixture; independent human reconciliation pending.
+insurance-04,deadline,2026-12-01,1,"You must submit an appeal by December 1, 2026.",False,Single-pass authored synthetic fixture; independent human reconciliation pending.
+insurance-04,fee,$500,2,The annual deductible is $500.,False,Single-pass authored synthetic fixture; independent human reconciliation pending.
+insurance-04,fee,$25,3,The office visit copay is $25.,False,Single-pass authored synthetic fixture; independent human reconciliation pending.
+insurance-04,requirement,"You must submit an appeal by December 1, 2026.",1,"You must submit an appeal by December 1, 2026.",False,Single-pass authored synthetic fixture; independent human reconciliation pending.
+insurance-04,requirement,You must obtain prior authorization before the procedure.,5,You must obtain prior authorization before the procedure.,False,Single-pass authored synthetic fixture; independent human reconciliation pending.
+insurance-04,term,Deductible means the amount you pay before the plan pays for covered care.,6,Deductible means the amount you pay before the plan pays for covered care.,False,Single-pass authored synthetic fixture; independent human reconciliation pending.
+insurance-05,deadline,2026-12-01,1,"You must submit an appeal by December 1, 2026.",False,Single-pass authored synthetic fixture; independent human reconciliation pending.
+insurance-05,fee,$500,2,The annual deductible is $500.,False,Single-pass authored synthetic fixture; independent human reconciliation pending.
+insurance-05,fee,$25,3,The office visit copay is $25.,False,Single-pass authored synthetic fixture; independent human reconciliation pending.
+insurance-05,requirement,"You must submit an appeal by December 1, 2026.",1,"You must submit an appeal by December 1, 2026.",False,Single-pass authored synthetic fixture; independent human reconciliation pending.
+insurance-05,requirement,You must obtain prior authorization before the procedure.,5,You must obtain prior authorization before the procedure.,False,Single-pass authored synthetic fixture; independent human reconciliation pending.
+insurance-05,term,Deductible means the amount you pay before the plan pays for covered care.,6,Deductible means the amount you pay before the plan pays for covered care.,False,Single-pass authored synthetic fixture; independent human reconciliation pending.
+insurance-06,deadline,2026-12-01,1,"You must submit an appeal by December 1, 2026.",False,Single-pass authored synthetic fixture; independent human reconciliation pending.
+insurance-06,fee,$500,2,The annual deductible is $500.,False,Single-pass authored synthetic fixture; independent human reconciliation pending.
+insurance-06,fee,$25,3,The office visit copay is $25.,False,Single-pass authored synthetic fixture; independent human reconciliation pending.
+insurance-06,requirement,"You must submit an appeal by December 1, 2026.",1,"You must submit an appeal by December 1, 2026.",False,Single-pass authored synthetic fixture; independent human reconciliation pending.
+insurance-06,requirement,You must obtain prior authorization before the procedure.,5,You must obtain prior authorization before the procedure.,False,Single-pass authored synthetic fixture; independent human reconciliation pending.
+insurance-06,term,Deductible means the amount you pay before the plan pays for covered care.,6,Deductible means the amount you pay before the plan pays for covered care.,False,Single-pass authored synthetic fixture; independent human reconciliation pending.
+benefits-01,deadline,2026-11-12,1,"You must return the SNAP redetermination form by November 12, 2026.",False,Single-pass authored synthetic fixture; independent human reconciliation pending.
+benefits-01,deadline,2026-12-02,5,"You must request a fair hearing by December 2, 2026.",False,Single-pass authored synthetic fixture; independent human reconciliation pending.
+benefits-01,requirement,"You must return the SNAP redetermination form by November 12, 2026.",1,"You must return the SNAP redetermination form by November 12, 2026.",False,Single-pass authored synthetic fixture; independent human reconciliation pending.
+benefits-01,requirement,You must submit proof of income and proof of address.,2,You must submit proof of income and proof of address.,False,Single-pass authored synthetic fixture; independent human reconciliation pending.
+benefits-01,requirement,You must upload the documents through the benefits portal.,3,You must upload the documents through the benefits portal.,False,Single-pass authored synthetic fixture; independent human reconciliation pending.
+benefits-01,term,Redetermination means a review of whether you still qualify.,6,Redetermination means a review of whether you still qualify.,False,Single-pass authored synthetic fixture; independent human reconciliation pending.
+benefits-02,deadline,2026-11-12,1,"You must return the SNAP redetermination form by November 12, 2026.",False,Single-pass authored synthetic fixture; independent human reconciliation pending.
+benefits-02,deadline,2026-12-02,5,"You must request a fair hearing by December 2, 2026.",False,Single-pass authored synthetic fixture; independent human reconciliation pending.
+benefits-02,requirement,"You must return the SNAP redetermination form by November 12, 2026.",1,"You must return the SNAP redetermination form by November 12, 2026.",False,Single-pass authored synthetic fixture; independent human reconciliation pending.
+benefits-02,requirement,You must submit proof of income and proof of address.,2,You must submit proof of income and proof of address.,False,Single-pass authored synthetic fixture; independent human reconciliation pending.
+benefits-02,requirement,You must upload the documents through the benefits portal.,3,You must upload the documents through the benefits portal.,False,Single-pass authored synthetic fixture; independent human reconciliation pending.
+benefits-02,term,Redetermination means a review of whether you still qualify.,6,Redetermination means a review of whether you still qualify.,False,Single-pass authored synthetic fixture; independent human reconciliation pending.
+benefits-03,deadline,2026-11-12,1,"You must return the SNAP redetermination form by November 12, 2026.",False,Single-pass authored synthetic fixture; independent human reconciliation pending.
+benefits-03,deadline,2026-12-02,5,"You must request a fair hearing by December 2, 2026.",False,Single-pass authored synthetic fixture; independent human reconciliation pending.
+benefits-03,requirement,"You must return the SNAP redetermination form by November 12, 2026.",1,"You must return the SNAP redetermination form by November 12, 2026.",False,Single-pass authored synthetic fixture; independent human reconciliation pending.
+benefits-03,requirement,You must submit proof of income and proof of address.,2,You must submit proof of income and proof of address.,False,Single-pass authored synthetic fixture; independent human reconciliation pending.
+benefits-03,requirement,You must upload the documents through the benefits portal.,3,You must upload the documents through the benefits portal.,False,Single-pass authored synthetic fixture; independent human reconciliation pending.
+benefits-03,term,Redetermination means a review of whether you still qualify.,6,Redetermination means a review of whether you still qualify.,False,Single-pass authored synthetic fixture; independent human reconciliation pending.
+benefits-04,deadline,2026-11-12,1,"You must return the SNAP redetermination form by November 12, 2026.",False,Single-pass authored synthetic fixture; independent human reconciliation pending.
+benefits-04,deadline,2026-12-02,5,"You must request a fair hearing by December 2, 2026.",False,Single-pass authored synthetic fixture; independent human reconciliation pending.
+benefits-04,requirement,"You must return the SNAP redetermination form by November 12, 2026.",1,"You must return the SNAP redetermination form by November 12, 2026.",False,Single-pass authored synthetic fixture; independent human reconciliation pending.
+benefits-04,requirement,You must submit proof of income and proof of address.,2,You must submit proof of income and proof of address.,False,Single-pass authored synthetic fixture; independent human reconciliation pending.
+benefits-04,requirement,You must upload the documents through the benefits portal.,3,You must upload the documents through the benefits portal.,False,Single-pass authored synthetic fixture; independent human reconciliation pending.
+benefits-04,term,Redetermination means a review of whether you still qualify.,6,Redetermination means a review of whether you still qualify.,False,Single-pass authored synthetic fixture; independent human reconciliation pending.
+benefits-05,deadline,2026-11-12,1,"You must return the SNAP redetermination form by November 12, 2026.",False,Single-pass authored synthetic fixture; independent human reconciliation pending.
+benefits-05,deadline,2026-12-02,5,"You must request a fair hearing by December 2, 2026.",False,Single-pass authored synthetic fixture; independent human reconciliation pending.
+benefits-05,requirement,"You must return the SNAP redetermination form by November 12, 2026.",1,"You must return the SNAP redetermination form by November 12, 2026.",False,Single-pass authored synthetic fixture; independent human reconciliation pending.
+benefits-05,requirement,You must submit proof of income and proof of address.,2,You must submit proof of income and proof of address.,False,Single-pass authored synthetic fixture; independent human reconciliation pending.
+benefits-05,requirement,You must upload the documents through the benefits portal.,3,You must upload the documents through the benefits portal.,False,Single-pass authored synthetic fixture; independent human reconciliation pending.
+benefits-05,term,Redetermination means a review of whether you still qualify.,6,Redetermination means a review of whether you still qualify.,False,Single-pass authored synthetic fixture; independent human reconciliation pending.
+benefits-06,deadline,2026-11-12,1,"You must return the SNAP redetermination form by November 12, 2026.",False,Single-pass authored synthetic fixture; independent human reconciliation pending.
+benefits-06,deadline,2026-12-02,5,"You must request a fair hearing by December 2, 2026.",False,Single-pass authored synthetic fixture; independent human reconciliation pending.
+benefits-06,requirement,"You must return the SNAP redetermination form by November 12, 2026.",1,"You must return the SNAP redetermination form by November 12, 2026.",False,Single-pass authored synthetic fixture; independent human reconciliation pending.
+benefits-06,requirement,You must submit proof of income and proof of address.,2,You must submit proof of income and proof of address.,False,Single-pass authored synthetic fixture; independent human reconciliation pending.
+benefits-06,requirement,You must upload the documents through the benefits portal.,3,You must upload the documents through the benefits portal.,False,Single-pass authored synthetic fixture; independent human reconciliation pending.
+benefits-06,term,Redetermination means a review of whether you still qualify.,6,Redetermination means a review of whether you still qualify.,False,Single-pass authored synthetic fixture; independent human reconciliation pending.

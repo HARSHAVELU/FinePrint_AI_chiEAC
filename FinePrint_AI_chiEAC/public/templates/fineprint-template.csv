@@ -1,0 +1,8 @@
+doc_id,section_id,heading,text,page,source_file
+housing-01,1,Rent,"Rent of $1,210 is due on November 5, 2026.",1,synthetic-example
+housing-01,2,Deposit,Tenant must pay a security deposit of $800 before move-in.,1,synthetic-example
+housing-01,3,Notice,Tenant must give 30 days written notice to end the lease.,1,synthetic-example
+housing-01,4,Repairs,The landlord is responsible for repairs. Report problems to the office.,1,synthetic-example
+housing-01,5,Late fee,A late fee of $45 applies after the grace period.,2,synthetic-example
+housing-01,6,Terms,Security deposit means money held to cover unpaid rent or damage.,2,synthetic-example
+housing-01,7,Required records,"Tenant must provide proof of income by November 2, 2026.",2,synthetic-example

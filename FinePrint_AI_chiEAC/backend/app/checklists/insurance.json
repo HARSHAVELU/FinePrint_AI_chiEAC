@@ -1,0 +1,58 @@
+[
+  {
+    "key": "deductible",
+    "patterns": [
+      "deductible"
+    ],
+    "question": "What is my deductible?"
+  },
+  {
+    "key": "maximum",
+    "patterns": [
+      "out.of.pocket"
+    ],
+    "question": "What is my out-of-pocket maximum?"
+  },
+  {
+    "key": "copay",
+    "patterns": [
+      "copay|coinsurance"
+    ],
+    "question": "What copays apply?"
+  },
+  {
+    "key": "network",
+    "patterns": [
+      "network"
+    ],
+    "question": "What are the network rules?"
+  },
+  {
+    "key": "authorization",
+    "patterns": [
+      "prior authorization"
+    ],
+    "question": "Is prior authorization required?"
+  },
+  {
+    "key": "billed",
+    "patterns": [
+      "billed|owe"
+    ],
+    "question": "How much do I owe?"
+  },
+  {
+    "key": "appeal",
+    "patterns": [
+      "appeal"
+    ],
+    "question": "How and when do I appeal?"
+  },
+  {
+    "key": "contact",
+    "patterns": [
+      "contact|call"
+    ],
+    "question": "Who should I contact?"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "doc_id": "benefits-01",
+    "section_id": "1",
+    "heading": "Deadline",
+    "text": "You must return the SNAP redetermination form by November 12, 2026.",
+    "page": 1,
+    "source_file": "synthetic-example"
+  },
+  {
+    "doc_id": "benefits-01",
+    "section_id": "2",
+    "heading": "Documents",
+    "text": "You must submit proof of income and proof of address.",
+    "page": 1,
+    "source_file": "synthetic-example"
+  },
+  {
+    "doc_id": "benefits-01",
+    "section_id": "3",
+    "heading": "Method",
+    "text": "You must upload the documents through the benefits portal.",
+    "page": 1,
+    "source_file": "synthetic-example"
+  },
+  {
+    "doc_id": "benefits-01",
+    "section_id": "4",
+    "heading": "Consequence",
+    "text": "Failure to respond will close the benefits case.",
+    "page": 1,
+    "source_file": "synthetic-example"
+  },
+  {
+    "doc_id": "benefits-01",
+    "section_id": "5",
+    "heading": "Appeal",
+    "text": "You must request a fair hearing by December 2, 2026.",
+    "page": 2,
+    "source_file": "synthetic-example"
+  },
+  {
+    "doc_id": "benefits-01",
+    "section_id": "6",
+    "heading": "Terms",
+    "text": "Redetermination means a review of whether you still qualify.",
+    "page": 2,
+    "source_file": "synthetic-example"
+  },
+  {
+    "doc_id": "benefits-01",
+    "section_id": "7",
+    "heading": "Contact",
+    "text": "You must contact your caseworker if you need help.",
+    "page": 2,
+    "source_file": "synthetic-example"
+  }
+]

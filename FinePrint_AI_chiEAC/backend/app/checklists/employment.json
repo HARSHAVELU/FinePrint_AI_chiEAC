@@ -1,0 +1,58 @@
+[
+  {
+    "key": "start",
+    "patterns": [
+      "start|begins"
+    ],
+    "question": "What is my start date and location?"
+  },
+  {
+    "key": "pay",
+    "patterns": [
+      "salary|pay rate"
+    ],
+    "question": "What is the pay rate and frequency?"
+  },
+  {
+    "key": "overtime",
+    "patterns": [
+      "overtime|nonexempt"
+    ],
+    "question": "Am I eligible for overtime?"
+  },
+  {
+    "key": "at_will",
+    "patterns": [
+      "at.will"
+    ],
+    "question": "What are the employment terms?"
+  },
+  {
+    "key": "benefits",
+    "patterns": [
+      "benefits"
+    ],
+    "question": "When do benefits begin?"
+  },
+  {
+    "key": "pto",
+    "patterns": [
+      "paid time|pto"
+    ],
+    "question": "How does paid time off accrue?"
+  },
+  {
+    "key": "notice",
+    "patterns": [
+      "resign|termination|notice"
+    ],
+    "question": "What notice is required?"
+  },
+  {
+    "key": "sign",
+    "patterns": [
+      "sign|return"
+    ],
+    "question": "When must I accept the offer?"
+  }
+]

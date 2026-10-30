@@ -1,0 +1,58 @@
+[
+  {
+    "key": "deadline",
+    "patterns": [
+      "due|deadline|return"
+    ],
+    "question": "When must I respond?"
+  },
+  {
+    "key": "documents",
+    "patterns": [
+      "documents|proof"
+    ],
+    "question": "What documents do I need?"
+  },
+  {
+    "key": "meeting",
+    "patterns": [
+      "meeting"
+    ],
+    "question": "When and where is the meeting?"
+  },
+  {
+    "key": "contact",
+    "patterns": [
+      "contact|office"
+    ],
+    "question": "Who can answer questions?"
+  },
+  {
+    "key": "appeal",
+    "patterns": [
+      "appeal|dispute"
+    ],
+    "question": "How can I dispute the decision?"
+  },
+  {
+    "key": "language",
+    "patterns": [
+      "interpreter|language"
+    ],
+    "question": "Can I request an interpreter?"
+  },
+  {
+    "key": "cost",
+    "patterns": [
+      "fee|cost"
+    ],
+    "question": "What costs apply?"
+  },
+  {
+    "key": "reschedule",
+    "patterns": [
+      "reschedule"
+    ],
+    "question": "How can I reschedule?"
+  }
+]

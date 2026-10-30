@@ -1,0 +1,1 @@
+Return {"items":[]} if the passages do not explicitly answer the question. Otherwise return {"items":[{"item_type":"requirement","value":"short answer","quote":"verbatim supporting passage","section_id":"source row id","confidence":0.8}]}. No outside knowledge. Quote verification checks provenance, not entailment: keep the answer strictly supported by the entire passage.

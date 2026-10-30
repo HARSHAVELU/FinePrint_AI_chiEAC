@@ -1,0 +1,65 @@
+[
+  {
+    "key": "action",
+    "patterns": [
+      "submit|return"
+    ],
+    "question": "What action must I take?"
+  },
+  {
+    "key": "deadline",
+    "patterns": [
+      "due|deadline|before"
+    ],
+    "question": "What is the deadline?"
+  },
+  {
+    "key": "documents",
+    "patterns": [
+      "documents|proof"
+    ],
+    "question": "What documents do I need?"
+  },
+  {
+    "key": "method",
+    "patterns": [
+      "upload|mail|fax"
+    ],
+    "question": "How do I submit them?"
+  },
+  {
+    "key": "consequence",
+    "patterns": [
+      "close|stop|failure"
+    ],
+    "question": "What happens if I do not reply?"
+  },
+  {
+    "key": "appeal",
+    "patterns": [
+      "appeal|hearing"
+    ],
+    "question": "How can I request a hearing?"
+  },
+  {
+    "key": "continue",
+    "patterns": [
+      "continue"
+    ],
+    "question": "Do benefits continue during appeal?"
+  },
+  {
+    "key": "contact",
+    "patterns": [
+      "caseworker|contact"
+    ],
+    "question": "Who is my contact?"
+  },
+  {
+    "key": "language",
+    "patterns": [
+      "language|interpreter"
+    ],
+    "question": "Is language help available?"
+  }
+]

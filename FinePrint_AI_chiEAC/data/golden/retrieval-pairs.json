@@ -1,0 +1,302 @@
+[
+  {
+    "doc_id": "benefits-01",
+    "question": "You must return the SNAP redetermination form by November 12, 2026.",
+    "section_id": "1",
+    "difficulty": "exact-passage fixture, not semantic generalization"
+  },
+  {
+    "doc_id": "benefits-01",
+    "question": "You must submit proof of income and proof of address.",
+    "section_id": "2",
+    "difficulty": "exact-passage fixture, not semantic generalization"
+  },
+  {
+    "doc_id": "benefits-02",
+    "question": "You must return the SNAP redetermination form by November 12, 2026.",
+    "section_id": "1",
+    "difficulty": "exact-passage fixture, not semantic generalization"
+  },
+  {
+    "doc_id": "benefits-02",
+    "question": "You must submit proof of income and proof of address.",
+    "section_id": "2",
+    "difficulty": "exact-passage fixture, not semantic generalization"
+  },
+  {
+    "doc_id": "benefits-03",
+    "question": "You must return the SNAP redetermination form by November 12, 2026.",
+    "section_id": "1",
+    "difficulty": "exact-passage fixture, not semantic generalization"
+  },
+  {
+    "doc_id": "benefits-03",
+    "question": "You must submit proof of income and proof of address.",
+    "section_id": "2",
+    "difficulty": "exact-passage fixture, not semantic generalization"
+  },
+  {
+    "doc_id": "benefits-04",
+    "question": "You must return the SNAP redetermination form by November 12, 2026.",
+    "section_id": "1",
+    "difficulty": "exact-passage fixture, not semantic generalization"
+  },
+  {
+    "doc_id": "benefits-04",
+    "question": "You must submit proof of income and proof of address.",
+    "section_id": "2",
+    "difficulty": "exact-passage fixture, not semantic generalization"
+  },
+  {
+    "doc_id": "benefits-05",
+    "question": "You must return the SNAP redetermination form by November 12, 2026.",
+    "section_id": "1",
+    "difficulty": "exact-passage fixture, not semantic generalization"
+  },
+  {
+    "doc_id": "benefits-05",
+    "question": "You must submit proof of income and proof of address.",
+    "section_id": "2",
+    "difficulty": "exact-passage fixture, not semantic generalization"
+  },
+  {
+    "doc_id": "benefits-06",
+    "question": "You must return the SNAP redetermination form by November 12, 2026.",
+    "section_id": "1",
+    "difficulty": "exact-passage fixture, not semantic generalization"
+  },
+  {
+    "doc_id": "benefits-06",
+    "question": "You must submit proof of income and proof of address.",
+    "section_id": "2",
+    "difficulty": "exact-passage fixture, not semantic generalization"
+  },
+  {
+    "doc_id": "employment-01",
+    "question": "Employment begins on November 16, 2026.",
+    "section_id": "1",
+    "difficulty": "exact-passage fixture, not semantic generalization"
+  },
+  {
+    "doc_id": "employment-01",
+    "question": "The pay rate is $25 per hour.",
+    "section_id": "2",
+    "difficulty": "exact-passage fixture, not semantic generalization"
+  },
+  {
+    "doc_id": "employment-02",
+    "question": "Employment begins on November 16, 2026.",
+    "section_id": "1",
+    "difficulty": "exact-passage fixture, not semantic generalization"
+  },
+  {
+    "doc_id": "employment-02",
+    "question": "The pay rate is $25 per hour.",
+    "section_id": "2",
+    "difficulty": "exact-passage fixture, not semantic generalization"
+  },
+  {
+    "doc_id": "employment-03",
+    "question": "Employment begins on November 16, 2026.",
+    "section_id": "1",
+    "difficulty": "exact-passage fixture, not semantic generalization"
+  },
+  {
+    "doc_id": "employment-03",
+    "question": "The pay rate is $25 per hour.",
+    "section_id": "2",
+    "difficulty": "exact-passage fixture, not semantic generalization"
+  },
+  {
+    "doc_id": "employment-04",
+    "question": "Employment begins on November 16, 2026.",
+    "section_id": "1",
+    "difficulty": "exact-passage fixture, not semantic generalization"
+  },
+  {
+    "doc_id": "employment-04",
+    "question": "The pay rate is $25 per hour.",
+    "section_id": "2",
+    "difficulty": "exact-passage fixture, not semantic generalization"
+  },
+  {
+    "doc_id": "employment-05",
+    "question": "Employment begins on November 16, 2026.",
+    "section_id": "1",
+    "difficulty": "exact-passage fixture, not semantic generalization"
+  },
+  {
+    "doc_id": "employment-05",
+    "question": "The pay rate is $25 per hour.",
+    "section_id": "2",
+    "difficulty": "exact-passage fixture, not semantic generalization"
+  },
+  {
+    "doc_id": "employment-06",
+    "question": "Employment begins on November 16, 2026.",
+    "section_id": "1",
+    "difficulty": "exact-passage fixture, not semantic generalization"
+  },
+  {
+    "doc_id": "employment-06",
+    "question": "The pay rate is $25 per hour.",
+    "section_id": "2",
+    "difficulty": "exact-passage fixture, not semantic generalization"
+  },
+  {
+    "doc_id": "housing-01",
+    "question": "Rent of $1,210 is due on November 5, 2026.",
+    "section_id": "1",
+    "difficulty": "exact-passage fixture, not semantic generalization"
+  },
+  {
+    "doc_id": "housing-01",
+    "question": "Tenant must pay a security deposit of $800 before move-in.",
+    "section_id": "2",
+    "difficulty": "exact-passage fixture, not semantic generalization"
+  },
+  {
+    "doc_id": "housing-02",
+    "question": "Rent of $1,220 is due on November 5, 2026.",
+    "section_id": "1",
+    "difficulty": "exact-passage fixture, not semantic generalization"
+  },
+  {
+    "doc_id": "housing-02",
+    "question": "Tenant must pay a security deposit of $800 before move-in.",
+    "section_id": "2",
+    "difficulty": "exact-passage fixture, not semantic generalization"
+  },
+  {
+    "doc_id": "housing-03",
+    "question": "Rent of $1,230 is due on November 5, 2026.",
+    "section_id": "1",
+    "difficulty": "exact-passage fixture, not semantic generalization"
+  },
+  {
+    "doc_id": "housing-03",
+    "question": "Tenant must pay a security deposit of $800 before move-in.",
+    "section_id": "2",
+    "difficulty": "exact-passage fixture, not semantic generalization"
+  },
+  {
+    "doc_id": "housing-04",
+    "question": "Rent of $1,240 is due on November 5, 2026.",
+    "section_id": "1",
+    "difficulty": "exact-passage fixture, not semantic generalization"
+  },
+  {
+    "doc_id": "housing-04",
+    "question": "Tenant must pay a security deposit of $800 before move-in.",
+    "section_id": "2",
+    "difficulty": "exact-passage fixture, not semantic generalization"
+  },
+  {
+    "doc_id": "housing-05",
+    "question": "Rent of $1,250 is due on November 5, 2026.",
+    "section_id": "1",
+    "difficulty": "exact-passage fixture, not semantic generalization"
+  },
+  {
+    "doc_id": "housing-05",
+    "question": "Tenant must pay a security deposit of $800 before move-in.",
+    "section_id": "2",
+    "difficulty": "exact-passage fixture, not semantic generalization"
+  },
+  {
+    "doc_id": "housing-06",
+    "question": "Rent of $1,260 is due on November 5, 2026.",
+    "section_id": "1",
+    "difficulty": "exact-passage fixture, not semantic generalization"
+  },
+  {
+    "doc_id": "housing-06",
+    "question": "Tenant must pay a security deposit of $800 before move-in.",
+    "section_id": "2",
+    "difficulty": "exact-passage fixture, not semantic generalization"
+  },
+  {
+    "doc_id": "insurance-01",
+    "question": "You must submit an appeal by December 1, 2026.",
+    "section_id": "1",
+    "difficulty": "exact-passage fixture, not semantic generalization"
+  },
+  {
+    "doc_id": "insurance-01",
+    "question": "The annual deductible is $500.",
+    "section_id": "2",
+    "difficulty": "exact-passage fixture, not semantic generalization"
+  },
+  {
+    "doc_id": "insurance-02",
+    "question": "You must submit an appeal by December 1, 2026.",
+    "section_id": "1",
+    "difficulty": "exact-passage fixture, not semantic generalization"
+  },
+  {
+    "doc_id": "insurance-02",
+    "question": "The annual deductible is $500.",
+    "section_id": "2",
+    "difficulty": "exact-passage fixture, not semantic generalization"
+  },
+  {
+    "doc_id": "insurance-03",
+    "question": "You must submit an appeal by December 1, 2026.",
+    "section_id": "1",
+    "difficulty": "exact-passage fixture, not semantic generalization"
+  },
+  {
+    "doc_id": "insurance-03",
+    "question": "The annual deductible is $500.",
+    "section_id": "2",
+    "difficulty": "exact-passage fixture, not semantic generalization"
+  },
+  {
+    "doc_id": "insurance-04",
+    "question": "You must submit an appeal by December 1, 2026.",
+    "section_id": "1",
+    "difficulty": "exact-passage fixture, not semantic generalization"
+  },
+  {
+    "doc_id": "insurance-04",
+    "question": "The annual deductible is $500.",
+    "section_id": "2",
+    "difficulty": "exact-passage fixture, not semantic generalization"
+  },
+  {
+    "doc_id": "insurance-05",
+    "question": "You must submit an appeal by December 1, 2026.",
+    "section_id": "1",
+    "difficulty": "exact-passage fixture, not semantic generalization"
+  },
+  {
+    "doc_id": "insurance-05",
+    "question": "The annual deductible is $500.",
+    "section_id": "2",
+    "difficulty": "exact-passage fixture, not semantic generalization"
+  },
+  {
+    "doc_id": "insurance-06",
+    "question": "You must submit an appeal by December 1, 2026.",
+    "section_id": "1",
+    "difficulty": "exact-passage fixture, not semantic generalization"
+  },
+  {
+    "doc_id": "insurance-06",
+    "question": "The annual deductible is $500.",
+    "section_id": "2",
+    "difficulty": "exact-passage fixture, not semantic generalization"
+  },
+  {
+    "doc_id": "school-01",
+    "question": "You must return the school enrollment form by November 4, 2026.",
+    "section_id": "1",
+    "difficulty": "exact-passage fixture, not semantic generalization"
+  },
+  {
+    "doc_id": "school-01",
+    "question": "The student must provide proof of address and an immunization record.",
+    "section_id": "2",
+    "difficulty": "exact-passage fixture, not semantic generalization"
+  }
+]

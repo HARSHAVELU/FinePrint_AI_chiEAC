@@ -1,0 +1,58 @@
+[
+  {
+    "doc_id": "housing-01",
+    "section_id": "1",
+    "heading": "Rent",
+    "text": "Rent of $1,210 is due on November 5, 2026.",
+    "page": 1,
+    "source_file": "synthetic-example"
+  },
+  {
+    "doc_id": "housing-01",
+    "section_id": "2",
+    "heading": "Deposit",
+    "text": "Tenant must pay a security deposit of $800 before move-in.",
+    "page": 1,
+    "source_file": "synthetic-example"
+  },
+  {
+    "doc_id": "housing-01",
+    "section_id": "3",
+    "heading": "Notice",
+    "text": "Tenant must give 30 days written notice to end the lease.",
+    "page": 1,
+    "source_file": "synthetic-example"
+  },
+  {
+    "doc_id": "housing-01",
+    "section_id": "4",
+    "heading": "Repairs",
+    "text": "The landlord is responsible for repairs. Report problems to the office.",
+    "page": 1,
+    "source_file": "synthetic-example"
+  },
+  {
+    "doc_id": "housing-01",
+    "section_id": "5",
+    "heading": "Late fee",
+    "text": "A late fee of $45 applies after the grace period.",
+    "page": 2,
+    "source_file": "synthetic-example"
+  },
+  {
+    "doc_id": "housing-01",
+    "section_id": "6",
+    "heading": "Terms",
+    "text": "Security deposit means money held to cover unpaid rent or damage.",
+    "page": 2,
+    "source_file": "synthetic-example"
+  },
+  {
+    "doc_id": "housing-01",
+    "section_id": "7",
+    "heading": "Required records",
+    "text": "Tenant must provide proof of income by November 2, 2026.",
+    "page": 2,
+    "source_file": "synthetic-example"
+  }
+]

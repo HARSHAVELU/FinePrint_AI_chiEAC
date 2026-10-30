@@ -1,0 +1,461 @@
+{
+  "timestamp": "2026-10-30T02:21:34.197182+00:00",
+  "mode": "demo",
+  "model": "none",
+  "prompt_hash": "87ae7875b669d2811340bbbd25127f2694e27baf3ba01d6ae3840910abd24bf5",
+  "python": "3.12.14",
+  "scope": "Synthetic fixture smoke evaluation. Gate 4 NOT certified.",
+  "documents": 30,
+  "labels": 204,
+  "items": {
+    "deadline": {
+      "recall": 1.0,
+      "precision": 1.0,
+      "tp": 60,
+      "labeled": 60,
+      "predicted": 60
+    },
+    "fee": {
+      "recall": 1.0,
+      "precision": 1.0,
+      "tp": 48,
+      "labeled": 48,
+      "predicted": 48
+    },
+    "requirement": {
+      "recall": 1.0,
+      "precision": 0.5625,
+      "tp": 54,
+      "labeled": 54,
+      "predicted": 96
+    },
+    "obligation": {
+      "recall": 1.0,
+      "precision": 0.6666666666666666,
+      "tp": 12,
+      "labeled": 12,
+      "predicted": 18
+    },
+    "term": {
+      "recall": 1.0,
+      "precision": 1.0,
+      "tp": 30,
+      "labeled": 30,
+      "predicted": 30
+    }
+  },
+  "by_family": {
+    "school": {
+      "deadline": {
+        "recall": 1.0,
+        "precision": 1.0
+      },
+      "fee": {
+        "recall": 1.0,
+        "precision": 1.0
+      },
+      "requirement": {
+        "recall": 1.0,
+        "precision": 0.6666666666666666
+      },
+      "obligation": {
+        "recall": null,
+        "precision": null
+      },
+      "term": {
+        "recall": 1.0,
+        "precision": 1.0
+      }
+    },
+    "employment": {
+      "deadline": {
+        "recall": 1.0,
+        "precision": 1.0
+      },
+      "fee": {
+        "recall": 1.0,
+        "precision": 1.0
+      },
+      "requirement": {
+        "recall": 1.0,
+        "precision": 0.5
+      },
+      "obligation": {
+        "recall": 1.0,
+        "precision": 1.0
+      },
+      "term": {
+        "recall": 1.0,
+        "precision": 1.0
+      }
+    },
+    "housing": {
+      "deadline": {
+        "recall": 1.0,
+        "precision": 1.0
+      },
+      "fee": {
+        "recall": 1.0,
+        "precision": 1.0
+      },
+      "requirement": {
+        "recall": 1.0,
+        "precision": 0.5
+      },
+      "obligation": {
+        "recall": 1.0,
+        "precision": 0.5
+      },
+      "term": {
+        "recall": 1.0,
+        "precision": 1.0
+      }
+    },
+    "insurance": {
+      "deadline": {
+        "recall": 1.0,
+        "precision": 1.0
+      },
+      "fee": {
+        "recall": 1.0,
+        "precision": 1.0
+      },
+      "requirement": {
+        "recall": 1.0,
+        "precision": 0.5
+      },
+      "obligation": {
+        "recall": null,
+        "precision": null
+      },
+      "term": {
+        "recall": 1.0,
+        "precision": 1.0
+      }
+    },
+    "benefits": {
+      "deadline": {
+        "recall": 1.0,
+        "precision": 1.0
+      },
+      "fee": {
+        "recall": null,
+        "precision": null
+      },
+      "requirement": {
+        "recall": 1.0,
+        "precision": 0.6
+      },
+      "obligation": {
+        "recall": null,
+        "precision": null
+      },
+      "term": {
+        "recall": 1.0,
+        "precision": 1.0
+      }
+    }
+  },
+  "citation_rate": 1.0,
+  "readability_grade8_share": 0.8285714285714286,
+  "out_of_doc_abstention": 1.0,
+  "in_doc_answered": 1.0,
+  "injection_followed": 0,
+  "pii_seed_recall": 1.0,
+  "local_fixture_p95_seconds": 0.00407650099998591,
+  "gate4_unmeasured": {
+    "unsupported_claim_rate": null,
+    "ragas_faithfulness": null,
+    "ragas_context_precision": null,
+    "deployed_150row_p95_seconds": null,
+    "provider_cost_per_document": null,
+    "five_person_usability_seconds": null,
+    "lighthouse_accessibility": null,
+    "independently_reconciled_labels": null,
+    "missing_item_recall": null
+  },
+  "negative_questions": [
+    {
+      "question": "What is the pet fee?",
+      "abstained": true
+    },
+    {
+      "question": "What is the parking fee?",
+      "abstained": true
+    },
+    {
+      "question": "What is the swimming pool fee?",
+      "abstained": true
+    },
+    {
+      "question": "What is the late checkout fee?",
+      "abstained": true
+    },
+    {
+      "question": "What is the gym charge?",
+      "abstained": true
+    },
+    {
+      "question": "How much is the pet deposit?",
+      "abstained": true
+    },
+    {
+      "question": "What is the laundry fee?",
+      "abstained": true
+    },
+    {
+      "question": "What is the parking permit cost?",
+      "abstained": true
+    },
+    {
+      "question": "What is the bus fare?",
+      "abstained": true
+    },
+    {
+      "question": "What is the delivery fee?",
+      "abstained": true
+    },
+    {
+      "question": "When is the wedding?",
+      "abstained": true
+    },
+    {
+      "question": "What is the meal allowance?",
+      "abstained": true
+    },
+    {
+      "question": "What is the airport transfer fee?",
+      "abstained": true
+    },
+    {
+      "question": "What is the tuition refund policy?",
+      "abstained": true
+    },
+    {
+      "question": "What is the weather forecast?",
+      "abstained": true
+    },
+    {
+      "question": "Who is the president?",
+      "abstained": true
+    },
+    {
+      "question": "What is the price of gold?",
+      "abstained": true
+    },
+    {
+      "question": "What is my credit score?",
+      "abstained": true
+    },
+    {
+      "question": "What is the tennis membership fee?",
+      "abstained": true
+    },
+    {
+      "question": "What is the bike storage fee?",
+      "abstained": true
+    }
+  ],
+  "positive_questions": [
+    {
+      "question": "You must return the SNAP redetermination form by November 12, 2026.",
+      "abstained": false,
+      "note": "Exact passage query; easy fixture test, not independent human Q&A."
+    },
+    {
+      "question": "You must submit proof of income and proof of address.",
+      "abstained": false,
+      "note": "Exact passage query; easy fixture test, not independent human Q&A."
+    },
+    {
+      "question": "You must upload the documents through the benefits portal.",
+      "abstained": false,
+      "note": "Exact passage query; easy fixture test, not independent human Q&A."
+    },
+    {
+      "question": "Failure to respond will close the benefits case.",
+      "abstained": false,
+      "note": "Exact passage query; easy fixture test, not independent human Q&A."
+    },
+    {
+      "question": "You must request a fair hearing by December 2, 2026.",
+      "abstained": false,
+      "note": "Exact passage query; easy fixture test, not independent human Q&A."
+    },
+    {
+      "question": "Redetermination means a review of whether you still qualify.",
+      "abstained": false,
+      "note": "Exact passage query; easy fixture test, not independent human Q&A."
+    },
+    {
+      "question": "The training fee of $50 is waived and will not be charged.",
+      "abstained": false,
+      "note": "Exact passage query; easy fixture test, not independent human Q&A."
+    },
+    {
+      "question": "Employment begins on November 16, 2026.",
+      "abstained": false,
+      "note": "Exact passage query; easy fixture test, not independent human Q&A."
+    },
+    {
+      "question": "The pay rate is $25 per hour.",
+      "abstained": false,
+      "note": "Exact passage query; easy fixture test, not independent human Q&A."
+    },
+    {
+      "question": "You must sign and return the offer by November 6, 2026.",
+      "abstained": false,
+      "note": "Exact passage query; easy fixture test, not independent human Q&A."
+    },
+    {
+      "question": "You must submit benefits forms by November 20, 2026.",
+      "abstained": false,
+      "note": "Exact passage query; easy fixture test, not independent human Q&A."
+    },
+    {
+      "question": "Employees must give two weeks notice before resigning.",
+      "abstained": false,
+      "note": "Exact passage query; easy fixture test, not independent human Q&A."
+    },
+    {
+      "question": "Security deposit means money held to cover unpaid rent or damage.",
+      "abstained": false,
+      "note": "Exact passage query; easy fixture test, not independent human Q&A."
+    },
+    {
+      "question": "Tenant must provide proof of income by November 2, 2026.",
+      "abstained": false,
+      "note": "Exact passage query; easy fixture test, not independent human Q&A."
+    },
+    {
+      "question": "Rent of $1,230 is due on November 5, 2026.",
+      "abstained": false,
+      "note": "Exact passage query; easy fixture test, not independent human Q&A."
+    },
+    {
+      "question": "Tenant must pay a security deposit of $800 before move-in.",
+      "abstained": false,
+      "note": "Exact passage query; easy fixture test, not independent human Q&A."
+    },
+    {
+      "question": "Tenant must give 30 days written notice to end the lease.",
+      "abstained": false,
+      "note": "Exact passage query; easy fixture test, not independent human Q&A."
+    },
+    {
+      "question": "The landlord is responsible for repairs. Report problems to the office.",
+      "abstained": false,
+      "note": "Exact passage query; easy fixture test, not independent human Q&A."
+    },
+    {
+      "question": "You must obtain prior authorization before the procedure.",
+      "abstained": false,
+      "note": "Exact passage query; easy fixture test, not independent human Q&A."
+    },
+    {
+      "question": "Deductible means the amount you pay before the plan pays for covered care.",
+      "abstained": false,
+      "note": "Exact passage query; easy fixture test, not independent human Q&A."
+    },
+    {
+      "question": "You must call the plan office for help with a claim.",
+      "abstained": false,
+      "note": "Exact passage query; easy fixture test, not independent human Q&A."
+    },
+    {
+      "question": "You must submit an appeal by December 1, 2026.",
+      "abstained": false,
+      "note": "Exact passage query; easy fixture test, not independent human Q&A."
+    },
+    {
+      "question": "The annual deductible is $500.",
+      "abstained": false,
+      "note": "Exact passage query; easy fixture test, not independent human Q&A."
+    },
+    {
+      "question": "The office visit copay is $25.",
+      "abstained": false,
+      "note": "Exact passage query; easy fixture test, not independent human Q&A."
+    },
+    {
+      "question": "The school activity fee is $20.",
+      "abstained": false,
+      "note": "Exact passage query; easy fixture test, not independent human Q&A."
+    },
+    {
+      "question": "You may ask the office for an interpreter.",
+      "abstained": false,
+      "note": "Exact passage query; easy fixture test, not independent human Q&A."
+    },
+    {
+      "question": "Enrollment means signing up for school.",
+      "abstained": false,
+      "note": "Exact passage query; easy fixture test, not independent human Q&A."
+    },
+    {
+      "question": "You must contact the school office to reschedule the meeting.",
+      "abstained": false,
+      "note": "Exact passage query; easy fixture test, not independent human Q&A."
+    },
+    {
+      "question": "You must return the school enrollment form by November 4, 2026.",
+      "abstained": false,
+      "note": "Exact passage query; easy fixture test, not independent human Q&A."
+    },
+    {
+      "question": "The student must provide proof of address and an immunization record.",
+      "abstained": false,
+      "note": "Exact passage query; easy fixture test, not independent human Q&A."
+    },
+    {
+      "question": "You must upload the documents through the benefits portal.",
+      "abstained": false,
+      "note": "Exact passage query; easy fixture test, not independent human Q&A."
+    },
+    {
+      "question": "Failure to respond will close the benefits case.",
+      "abstained": false,
+      "note": "Exact passage query; easy fixture test, not independent human Q&A."
+    },
+    {
+      "question": "You must request a fair hearing by December 2, 2026.",
+      "abstained": false,
+      "note": "Exact passage query; easy fixture test, not independent human Q&A."
+    },
+    {
+      "question": "Redetermination means a review of whether you still qualify.",
+      "abstained": false,
+      "note": "Exact passage query; easy fixture test, not independent human Q&A."
+    },
+    {
+      "question": "You must contact your caseworker if you need help.",
+      "abstained": false,
+      "note": "Exact passage query; easy fixture test, not independent human Q&A."
+    },
+    {
+      "question": "You must return the SNAP redetermination form by November 12, 2026.",
+      "abstained": false,
+      "note": "Exact passage query; easy fixture test, not independent human Q&A."
+    },
+    {
+      "question": "The pay rate is $25 per hour.",
+      "abstained": false,
+      "note": "Exact passage query; easy fixture test, not independent human Q&A."
+    },
+    {
+      "question": "You must sign and return the offer by November 6, 2026.",
+      "abstained": false,
+      "note": "Exact passage query; easy fixture test, not independent human Q&A."
+    },
+    {
+      "question": "You must submit benefits forms by November 20, 2026.",
+      "abstained": false,
+      "note": "Exact passage query; easy fixture test, not independent human Q&A."
+    },
+    {
+      "question": "Employees must give two weeks notice before resigning.",
+      "abstained": false,
+      "note": "Exact passage query; easy fixture test, not independent human Q&A."
+    }
+  ]
+}

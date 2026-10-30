@@ -1,0 +1,72 @@
+[
+  {
+    "key": "rent",
+    "patterns": [
+      "rent"
+    ],
+    "question": "What is the rent amount and due date?"
+  },
+  {
+    "key": "late_fee",
+    "patterns": [
+      "late fee"
+    ],
+    "question": "What late fee and grace period apply?"
+  },
+  {
+    "key": "deposit",
+    "patterns": [
+      "deposit"
+    ],
+    "question": "When and how is the deposit returned?"
+  },
+  {
+    "key": "dates",
+    "patterns": [
+      "lease.*(start|end)|begins"
+    ],
+    "question": "When does the lease start and end?"
+  },
+  {
+    "key": "renewal",
+    "patterns": [
+      "renew"
+    ],
+    "question": "Does the lease renew automatically?"
+  },
+  {
+    "key": "notice",
+    "patterns": [
+      "notice"
+    ],
+    "question": "How much notice must each party give?"
+  },
+  {
+    "key": "utilities",
+    "patterns": [
+      "utilit"
+    ],
+    "question": "Who pays each utility?"
+  },
+  {
+    "key": "repairs",
+    "patterns": [
+      "repair"
+    ],
+    "question": "How do I report a repair?"
+  },
+  {
+    "key": "pets",
+    "patterns": [
+      "pet"
+    ],
+    "question": "What are the pet and guest rules?"
+  },
+  {
+    "key": "entry",
+    "patterns": [
+      "enter|entry"
+    ],
+    "question": "What notice is required before entry?"
+  }
+]

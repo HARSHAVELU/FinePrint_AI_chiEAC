@@ -1,0 +1,9 @@
+# Privacy and trust
+
+The hosted prototype processes documents in the browser. No model provider receives document text in this mode. Basic pattern masking is incomplete: names without labels and unfamiliar addresses may remain. Remove personal details before a demo. The application does not save document content; data stays in component memory and clears on new/end session, page close, or 30 minutes of inactivity. Browsers, operating systems, extensions, or crash dumps may retain memory outside this application's control.
+
+The optional server holds redacted rows, a placeholder mapping, index, and results only in process memory. It periodically expires inactive sessions. A client may explicitly delete its session. Page-close notification is best effort; server expiry provides the backstop. Process-memory cleanup is deletion of references, not a guarantee of secure zeroization. Presidio and seeded PII tests are provided for production configuration, but broad PII recall has not been established.
+
+Model-backed analysis sends redacted text to the configured Anthropic account. The project has not verified account-specific retention, training, or contractual settings. Do not claim zero provider retention. The implementer must inspect the chosen account's current settings before real-user deployment. Tracing is forced off, no persistent LangGraph checkpointer is configured, and application code does not log content. Hosting-edge logging needs a separate review.
+
+Every page carries the required advice disclaimer. Grounding uses source checks and abstention, but quote verification alone cannot guarantee entailment. The UI keeps uncertainty visible and provides questions to ask the sender. Human review is required for important decisions. No forms are submitted and no legal, medical, or financial recommendations are generated.

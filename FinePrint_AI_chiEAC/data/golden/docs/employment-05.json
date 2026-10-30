@@ -1,0 +1,58 @@
+[
+  {
+    "doc_id": "employment-05",
+    "section_id": "1",
+    "heading": "Start",
+    "text": "Employment begins on November 16, 2026.",
+    "page": 1,
+    "source_file": "synthetic-example"
+  },
+  {
+    "doc_id": "employment-05",
+    "section_id": "2",
+    "heading": "Salary",
+    "text": "The pay rate is $25 per hour.",
+    "page": 1,
+    "source_file": "synthetic-example"
+  },
+  {
+    "doc_id": "employment-05",
+    "section_id": "3",
+    "heading": "Acceptance",
+    "text": "You must sign and return the offer by November 6, 2026.",
+    "page": 1,
+    "source_file": "synthetic-example"
+  },
+  {
+    "doc_id": "employment-05",
+    "section_id": "4",
+    "heading": "Benefits",
+    "text": "You must submit benefits forms by November 20, 2026.",
+    "page": 1,
+    "source_file": "synthetic-example"
+  },
+  {
+    "doc_id": "employment-05",
+    "section_id": "5",
+    "heading": "Notice",
+    "text": "Employees must give two weeks notice before resigning.",
+    "page": 2,
+    "source_file": "synthetic-example"
+  },
+  {
+    "doc_id": "employment-05",
+    "section_id": "6",
+    "heading": "Terms",
+    "text": "Nonexempt means eligible for overtime pay under this offer.",
+    "page": 2,
+    "source_file": "synthetic-example"
+  },
+  {
+    "doc_id": "employment-05",
+    "section_id": "7",
+    "heading": "Fee",
+    "text": "The training fee of $50 is waived and will not be charged.",
+    "page": 2,
+    "source_file": "synthetic-example"
+  }
+]

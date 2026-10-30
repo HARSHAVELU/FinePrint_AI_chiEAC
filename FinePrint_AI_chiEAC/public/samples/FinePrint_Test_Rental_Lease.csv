@@ -1,0 +1,16 @@
+doc_id,section_id,heading,text,page,source_file
+synthetic-rental-lease-test,S01,Document purpose,SYNTHETIC TEST DOCUMENT. This rental lease is fictional and is intended only for software testing.,1,Fictional rental lease for testing
+synthetic-rental-lease-test,S02,Tenant contact,Tenant: Morgan Example. Email: morgan@example.org. Phone: 312-555-0198.,1,Fictional rental lease for testing
+synthetic-rental-lease-test,S03,Acceptance deadline,"Tenant must sign and return the rental lease by November 2, 2026.",1,Fictional rental lease for testing
+synthetic-rental-lease-test,S04,Monthly rent,"Rent of $1,250 is due on November 5, 2026.",1,Fictional rental lease for testing
+synthetic-rental-lease-test,S05,Security deposit,"Tenant must pay a security deposit of $900 by November 3, 2026.",1,Fictional rental lease for testing
+synthetic-rental-lease-test,S06,Required documents,"Tenant must provide proof of income and proof of identity by November 4, 2026.",1,Fictional rental lease for testing
+synthetic-rental-lease-test,S07,Late fee,"A late fee of $40 applies when rent remains unpaid after November 8, 2026.",2,Fictional rental lease for testing
+synthetic-rental-lease-test,S08,Application fee,The application fee of $75 is waived and will not be charged.,2,Fictional rental lease for testing
+synthetic-rental-lease-test,S09,Tenant duties,Tenant must not damage the home or block shared exits.,2,Fictional rental lease for testing
+synthetic-rental-lease-test,S10,Repairs,The landlord is responsible for repairs. Tenant must report repair requests to the management office.,2,Fictional rental lease for testing
+synthetic-rental-lease-test,S11,End of tenancy,Tenant must give 30 days written notice before ending the tenancy.,2,Fictional rental lease for testing
+synthetic-rental-lease-test,S12,Utilities,Tenant must pay electricity and internet charges. The landlord pays water charges.,2,Fictional rental lease for testing
+synthetic-rental-lease-test,S13,Deposit definition,Security deposit means money held to cover unpaid rent or damage.,3,Fictional rental lease for testing
+synthetic-rental-lease-test,S14,Subletting,Tenant must obtain written permission before subletting the home.,3,Fictional rental lease for testing
+synthetic-rental-lease-test,S15,Move out deadline,"Tenant must return all keys by October 31, 2027.",3,Fictional rental lease for testing

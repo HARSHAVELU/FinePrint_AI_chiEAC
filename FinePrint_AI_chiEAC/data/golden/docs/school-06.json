@@ -1,0 +1,58 @@
+[
+  {
+    "doc_id": "school-06",
+    "section_id": "1",
+    "heading": "Response",
+    "text": "You must return the school enrollment form by November 4, 2026.",
+    "page": 1,
+    "source_file": "synthetic-example"
+  },
+  {
+    "doc_id": "school-06",
+    "section_id": "2",
+    "heading": "Documents",
+    "text": "The student must provide proof of address and an immunization record.",
+    "page": 1,
+    "source_file": "synthetic-example"
+  },
+  {
+    "doc_id": "school-06",
+    "section_id": "3",
+    "heading": "Meeting",
+    "text": "The school meeting is on November 10, 2026 at 3 p.m. in Room 2.",
+    "page": 1,
+    "source_file": "synthetic-example"
+  },
+  {
+    "doc_id": "school-06",
+    "section_id": "4",
+    "heading": "Fee",
+    "text": "The school activity fee is $20.",
+    "page": 1,
+    "source_file": "synthetic-example"
+  },
+  {
+    "doc_id": "school-06",
+    "section_id": "5",
+    "heading": "Language",
+    "text": "You may ask the office for an interpreter.",
+    "page": 2,
+    "source_file": "synthetic-example"
+  },
+  {
+    "doc_id": "school-06",
+    "section_id": "6",
+    "heading": "Terms",
+    "text": "Enrollment means signing up for school.",
+    "page": 2,
+    "source_file": "synthetic-example"
+  },
+  {
+    "doc_id": "school-06",
+    "section_id": "7",
+    "heading": "Contact",
+    "text": "You must contact the school office to reschedule the meeting.",
+    "page": 2,
+    "source_file": "synthetic-example"
+  }
+]
